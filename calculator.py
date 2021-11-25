@@ -25,13 +25,13 @@ while True:
         num2= float(input("enter second number/variable :"))
 
         if choice == '1':
-            print(num1, "+", num2, "=",add(num1, num2), "credit goes to ali faorooq")
+            print(num1, "+", num2, "=",add(num1, num2), "credit goes to ali farooq")
         elif choice == '2':
-            print(num1, "-", num2, "=",sub(num1,num2), "credit goes to ali faorooq")
+            print(num1, "-", num2, "=",sub(num1,num2), "credit goes to ali farooq")
         elif choice == '3':
-            print(num1, "*", num2, "=", muliply(num1,num2), "credit goes to ali faorooq" )
+            print(num1, "*", num2, "=", muliply(num1,num2), "credit goes to ali farooq" )
         elif choice == '4':
-            print(num1, '/', num2, '=',divide(num1,num2) ,"credit goes to ali faorooq")
+            print(num1, '/', num2, '=',divide(num1,num2) ,"credit goes to ali farooq")
     else:
         print("wrong input")
 
